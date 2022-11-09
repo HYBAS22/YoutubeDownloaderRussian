@@ -1,8 +1,6 @@
 # YoutubeDownloaderRussian
 
 [![Build](https://img.shields.io/github/workflow/status/HYBAS22/YoutubeDownloaderRussian/main/master)](https://github.com/HYBAS22/YoutubeDownloaderRussian/actions)
-[![Release](https://img.shields.io/github/release/HYBAS22/YoutubeDownloader.svg)](https://github.com/HYBAS22/YoutubeDownloaderRussian/releases)
-[![Downloads](https://img.shields.io/github/downloads/HYBAS22/YoutubeDownloaderRussian/total.svg)](https://github.com/HYBAS22/YoutubeDownloaderRussian/releases)
 [![Fuck Hating Russia](https://img.shields.io/badge/fuck-hating-e4181c.svg?labelColor=000000)](https://vk.com/idhybix)
 
 > 🟡 **Статус проекта**: без понятия
