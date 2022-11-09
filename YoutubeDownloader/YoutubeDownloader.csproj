@@ -4,6 +4,12 @@
     <OutputType>WinExe</OutputType>
     <UseWPF>true</UseWPF>
     <ApplicationIcon>../favicon.ico</ApplicationIcon>
+    <PackageId>YoutubeDownloaderRussian</PackageId>
+    <PackageVersion>1.9.6</PackageVersion>
+    <Authors>HYBIK and Terryz</Authors>
+    <Copyright>Copyright (C) Oleksii Holub and HYBIK</Copyright>
+    <Company>HYBIK</Company>
+    <Product>YoutubeDownloaderRussian</Product>
   </PropertyGroup>
 
   <ItemGroup>

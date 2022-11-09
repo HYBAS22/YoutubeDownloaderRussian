@@ -1,47 +1,36 @@
-# YoutubeDownloader
+# YoutubeDownloaderRussian
 
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://vshymanskyy.github.io/StandWithUkraine)
-[![Build](https://img.shields.io/github/workflow/status/Tyrrrz/YoutubeDownloader/main/master)](https://github.com/Tyrrrz/YoutubeDownloader/actions)
-[![Release](https://img.shields.io/github/release/Tyrrrz/YoutubeDownloader.svg)](https://github.com/Tyrrrz/YoutubeDownloader/releases)
-[![Downloads](https://img.shields.io/github/downloads/Tyrrrz/YoutubeDownloader/total.svg)](https://github.com/Tyrrrz/YoutubeDownloader/releases)
-[![Discord](https://img.shields.io/discord/869237470565392384?label=discord)](https://discord.gg/2SUWKFnHSm)
-[![Donate](https://img.shields.io/badge/donate-$$$-8a2be2.svg)](https://tyrrrz.me/donate)
-[![Fuck Russia](https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000)](https://twitter.com/tyrrrz/status/1495972128977571848)
+[![Build](https://img.shields.io/github/workflow/status/HYBAS22/YoutubeDownloaderRussian/main/master)](https://github.com/HYBAS22/YoutubeDownloaderRussian/actions)
+[![Release](https://img.shields.io/github/release/HYBAS22/YoutubeDownloader.svg)](https://github.com/HYBAS22/YoutubeDownloaderRussian/releases)
+[![Downloads](https://img.shields.io/github/downloads/HYBAS22/YoutubeDownloaderRussian/total.svg)](https://github.com/HYBAS22/YoutubeDownloaderRussian/releases)
+[![Fuck Hating Russia](https://img.shields.io/badge/fuck-hating-e4181c.svg?labelColor=000000)](https://vk.com/idhybix)
 
-> 🟡 **Project status**: maintenance mode<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)</sup>
+> 🟡 **Статус проекта**: без понятия
 
-**YoutubeDownloader** is an application that lets you download videos from YouTube.
-You can copy-paste URL of any video, playlist or channel and download it directly to a format of your choice.
-It also supports searching by keywords, which is helpful if you want to quickly look up and download videos.
+**YoutubeDownloader** - это приложение, которое позволяет загружать видео с YouTube.
+Вы можете скопировать и вставить URL любого видео, списка воспроизведения или канала и загрузить его непосредственно в формат по вашему выбору.
+Он также поддерживает поиск по ключевым словам, что полезно, если вы хотите быстро просмотреть и загрузить видео.
 
-This application uses [**YoutubeExplode**](https://github.com/Tyrrrz/YoutubeExplode) under the hood to interact with YouTube.
+Это приложение использует [**YoutubeExplode**](https://github.com/Tyrrrz/YoutubeExplode)под капотом для взаимодействия с YouTube.
 
-## Terms of use<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/why-so-political.md)</sup>
+## Условия использования
 
-By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
+Используя это вы не должны ничего подписывать, кому то доказывать что вы против какой то из политических сторон и т.д. Зачем делать такой мусор??
 
-- You **condemn Russia and its military aggression against Ukraine**
-- You **recognize that Russia is an occupant that unlawfully invaded a sovereign state**
-- You **support Ukraine's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
-- You **reject false narratives perpetuated by Russian state propaganda**
+## Скачать
 
-To learn more about the war and how you can help, [click here](https://tyrrrz.me). Glory to Ukraine! 🇺🇦
+- 🟢 **[Стабильный выпуск](https://github.com/HYBAS22/YoutubeDownloaderRussian/releases/latest)**
 
-## Download
+## Фичи
 
-- 🟢 **[Stable release](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
-- 🟠 [CI build](https://github.com/Tyrrrz/YoutubeDownloader/actions/workflows/main.yml)
+- Скачать видео по URL
+- Загружайте видео из списков воспроизведения или каналов
+- Загрузка видео по поисковому запросу
+- Выбираемое качество и формат видео
+- Автоматическое встраивание субтитров
+- Автоматическое введение тегов мультимедиа
 
-## Features
-
-- Download videos by URL
-- Download videos from playlists or channels
-- Download videos by search query
-- Selectable video quality and format
-- Automatically embed subtitles
-- Automatically inject media tags
-
-## Screenshots
+## Скриншоты
 
 ![list](.assets/list.png)
 ![single](.assets/single.png)
