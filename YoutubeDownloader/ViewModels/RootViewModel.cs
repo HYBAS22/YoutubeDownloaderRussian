@@ -83,6 +83,18 @@ public class RootViewModel : Screen
         {
             App.SetLightTheme();
         }
+
+        // App has just been updated, display changelog
+        if (_settingsService.LastAppVersion is not null && _settingsService.LastAppVersion != App.Version)
+        {
+            Notifications.Enqueue(
+                $"Успешно обновлено {App.Name} v{App.VersionString}",
+                "ИЗМЕНЕНИЯ", () => ProcessEx.StartShellExecute(App.ChangelogUrl)
+            );
+
+            _settingsService.LastAppVersion = App.Version;
+            _settingsService.Save();
+        }
     }
 
     protected override void OnClose()

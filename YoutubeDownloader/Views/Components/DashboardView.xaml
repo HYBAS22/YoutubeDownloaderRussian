@@ -109,7 +109,7 @@
             <StackPanel
                 Margin="8,32,8,8"
                 HorizontalAlignment="Center"
-                Visibility="{Binding Downloads.Count, Converter={x:Static s:BoolToVisibilityConverter.InverseInstance}}">
+                Visibility="{Binding IsDownloadsAvailable, Converter={x:Static converters:BoolToVisibilityConverter.CollapsedOrVisible}}">
                 <materialDesign:PackIcon
                     Width="258"
                     Height="258"
